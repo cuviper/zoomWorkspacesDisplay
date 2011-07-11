@@ -1,0 +1,8 @@
+{
+    "shell-version": ["3.0.2"],
+    "uuid": "zoomWorkspacesDisplay@cuviper.com",
+    "name": "Zoom Workspaces Display",
+    "description": "Forces the workspaces display to always be zoomed",
+    "url": "http://blog.cuviper.com/",
+    "original-authors": "Josh Stone"
+}
