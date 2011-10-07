@@ -1,5 +1,5 @@
 {
-    "shell-version": ["3.0.2"],
+    "shell-version": ["3.2"],
     "uuid": "zoomWorkspacesDisplay@cuviper.com",
     "name": "Zoom Workspaces Display",
     "description": "Forces the workspaces display to always be zoomed",
